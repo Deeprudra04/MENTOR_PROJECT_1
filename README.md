@@ -33,7 +33,6 @@ You can view the full project repository here:
 ---
 
 ## 📄 Project Video 
--
 📎[Project Video](https://drive.google.com/file/d/1XNJx0BEaI1UXRHXzQeGrj6S9c2fiTuR-/view?usp=sharing)
 -
 ## 📄 Project Report
