@@ -35,6 +35,7 @@ You can view the full project repository here:
 ## 📄 Project Report
 Video Link
 [Project Video](https://drive.google.com/file/d/1XNJx0BEaI1UXRHXzQeGrj6S9c2fiTuR-/view?usp=sharing)
+-
 A detailed PDF report of the system is available here:  
 📎 [Download Report](https://github.com/user-attachments/files/21148484/securitySystemReport.3.pdf)  
 
