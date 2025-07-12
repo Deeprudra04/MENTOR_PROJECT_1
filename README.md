@@ -35,8 +35,7 @@ You can view the full project repository here:
 ## 📄 Project Report
 
 A detailed PDF report of the system is available here:  
-📎 [Download Report](https://github.com/username/interns-smart-security-system/blob/main/securitySystemReport%20(3).pdf)  
-*(Replace with actual path if uploaded)*
+📎 [Download Report](https://github.com/user-attachments/files/21148484/securitySystemReport.3.pdf)  
 
 ---
 
