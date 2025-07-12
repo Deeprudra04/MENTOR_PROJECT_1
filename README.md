@@ -52,18 +52,6 @@ Under the mentorship of:
 
 Guided and Supported By:  
 🤖 *KGEC Robotics Society*
-
----
-
-## 📸 Sneak Peek
-
-> Image capture on wrong password attempts, real-time alerts, and Bluetooth override — the system is designed for security and accessibility.
-
-<!-- Replace the following image links with real image URLs or relative paths -->
-![System Overview](images/system_overview.jpg)
-![ESP32-CAM Output](images/esp32cam_output.jpg)
-![Flask Server Email Alert](images/email_alert.jpg)
-
 ---
 
 ## 📌 Technologies Used
