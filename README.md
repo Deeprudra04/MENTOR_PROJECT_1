@@ -28,8 +28,7 @@ As the mentor, I provided:
 ## 🔗 Interns’ Project Repository
 
 You can view the full project repository here:  
-👉 [Smart Security System – Interns' GitHub Repo](https://github.com/username/interns-smart-security-system)  
-*(Replace the above link with the actual repo link)*
+👉 [Smart Security System – Interns' GitHub Repo](https://github.com/aymanthegod/smart_Security_system)  
 
 ---
 
